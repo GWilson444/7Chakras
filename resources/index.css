@@ -11,9 +11,6 @@ h1 {
   width: 333px;
 }
 
-#top {
-  
-}
 
 #main p {
   
@@ -21,6 +18,34 @@ h1 {
 
 #introduction p {
   
+}
+
+#root {
+  background-color: #ff0000;
+}
+
+#sacral {
+  background-image: #ffa500;
+}
+
+#solar-plexus {
+  background-color: #ffff00;
+}
+
+#heart {
+  background-image: #008000;
+}
+
+#throat {
+  background-color: #0000ff;
+}
+
+#brow {
+ background-color: #4b0082; 
+}
+
+#crown {
+  background-color: #ee82ee;
 }
 
 .chakras {
