@@ -13,7 +13,7 @@ h1 {
 
 
 #main p {
-  font-family: "Josefin Sans";
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #introduction p {
@@ -41,7 +41,7 @@ h1 {
 }
 
 #brow {
- background-color: #4b0082; 
+  background-color: #4b0082;
 }
 
 #crown {
@@ -49,7 +49,7 @@ h1 {
 }
 
 .chakras {
-  font-family: "Amatic SC";
+  font-family: 'Amatic SC', cursive;
 }
 
 
