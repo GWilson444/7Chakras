@@ -22,35 +22,37 @@ h1 {
 }
 
 #root {
-  background-color: #ff0000;
+  background-color: red;
 }
 
 #sacral {
-  background-color: #ffa500;
+  background-color: orange;
 }
 
 #solar-plexus {
-  background-color: #ffff00;
+  background-color: yellow;
 }
 
 #heart {
-  background-color: #00ff00;
+  background-color: green;
 }
 
 #throat {
-  background-color: #0000ff;
+  background-color: blue;
 }
 
 #brow {
-  background-color: #4b0082;
+  background-color: indigo;
 }
 
 #crown {
-  background-color: #ee82ee;
+  background-color: violet;
 }
 
 .chakras {
   font-family: 'Amatic SC', cursive;
+  font-size: 2em;
+  font-weight: bold;
 }
 
 
